@@ -1,0 +1,11 @@
+name: BotPlugin
+description: $description
+prefix: bp
+version: '$version'
+
+main: net.rktlvr.mc.plugins.botplugin.BotPlugin
+api-version: '26.1.1'
+load: POSTWORLD
+
+authors: [ rkt_lvr ]
+website: https://github.com/rocketLover11/Bot-Plugin
