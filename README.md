@@ -1,5 +1,4 @@
-Bot-Plugin
-----------
+![Project Logo](images/logo.png)
 
 Made by: rkt_lvr  
   
